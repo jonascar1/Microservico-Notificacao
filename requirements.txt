@@ -7,4 +7,3 @@ pytz
 requests
 Pillow
 django-cors-headers
-EOF
