@@ -6,3 +6,5 @@ python-dateutil
 pytz
 requests
 Pillow
+django-cors-headers
+EOF
